@@ -1,0 +1,12 @@
+Hello Everyone,
+Every year thousands of people die due to Road accidents
+
+There were 1.35 million road traffic deaths globally in 2016
+
+In 2016, low- and middle-income countries had higher road traffic fatality rates per 100 000 population (27.5 and 19.2, respectively) compared to high-income countries (8.3).
+
+Almost half of all deaths on the world’s roads are among those with the least protection – motorcyclists, cyclists and pedestrians
+The aim of this project is to understand and study various aspects that affect the severity of road accidents.
+From the acquired data we will make a machine learning model which predicts the severity of an accident based on various conditions like weather, vehicle type ,time, day , etc.
+Wouldn't it be better if the consumer can get a warning ahead of time to prevent any mishap by taking proper care beforehand.
+This is exactly what we aim to do in this project.
